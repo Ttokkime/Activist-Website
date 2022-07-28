@@ -1,0 +1,112 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: rgb(221, 238, 255); 
+  background-image: url("assets/blue gradient.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+main
+{
+  text-align: center;
+  margin-top: 0%;
+  margin-right: 20%;
+  margin-bottom: 0;
+  margin-left: 20%;
+}
+/* STYLE TEXT */
+h1 {
+  color: rgb(214, 83, 107);
+  font-size: 60px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 26px;
+  color:rgb(224, 113, 134);
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 4%;
+}
+
+/* STYLE IMAGES */
+#fix{
+  width: 20%;
+  height: 5%;
+}
+img {
+    width: 30%;
+    height: 40%;
+    border-radius: 25px;
+    border: 3px solid rgb(255, 255, 255);
+    margin: 2em;
+  }
+  #bli{
+    width: 40%;
+    height: 50%;
+  }
+
+  #blii{
+    width: 40%;
+    height: 70%;
+  }
+
+#protest{
+  width: 40%;
+  height: 30%;
+}
+#gender{
+  height: 30%;
+  width: 40%;
+}
+/* STYLE NAV BAR */
+ul{
+  list-style-type: none;
+  background-color: rgb(221, 238, 255); 
+  overflow: hidden;
+  padding: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+li{
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  color: rgb(119, 36, 83);
+  font-size: 1.3 em;
+  padding: 1em;
+}
+
+li a:hover{
+  background-color: rgb(165, 208, 230);
+}
+
+/* STYLE BUTTONS */
+button { 
+  margin-top: 5px;
+  background-color: whitesmoke;
+  font-family: cursive;
+  font-size: 20px;
+  border-radius: 35%;
+  border-color: rgb(36, 175, 175);
+  padding: 10px;
+  color: rgb(52, 123, 145)
+
+}
+/* ADD MORE! */
+
+#fact-section{
+  text-align: center;
+  padding: 5px;
+}
+#generate-fact
+{
+  margin-bottom: 5%;
+}
