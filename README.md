@@ -1,15 +1,10 @@
 # Activist Project
 
-This is a place for you to start building your activist toolkit!
-
+My activist project gives information on the topic of women workplace discrimination and includes both a take action tab and a tab with fact generator that gives facts on women workplace discrimination.
 
 ### Project
-- Build a multipage website using HTML, CSS, and JavaScript.
-- Implement at least one of the key features from the menu. 
-- Customize the look and feel of your site through colors, images, and fonts using CSS.
-- Include alt text for every image in your website.
-- Use code comments to describe your code.
-
+- Includes a home page, take action page, and a fact page.
+- The fact page has a generator that will give a fact to the user when they press the "Generate fact!" button.
 
 ## File Overview
 
